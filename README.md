@@ -48,3 +48,6 @@
 - [ ] Fix bug where if a user edits the code, then does a change, it doesn't use the edited code
 - [ ] Apply code diffs directly instead of asking the model to generate the code from scratch
 - [ ] Add the ability to upload things like a screenshot for it to start from that
+# llamacoder-v2
+# llamacoder-v2
+# llamacoder-v2
